@@ -6,4 +6,4 @@
 
 <img src="./img/Captura de tela 2024-01-21 225730.png" >
 
-<a href=">
+<a href="https://pedroleite321.github.io/AdivinheONumeroSecreto/">Acesse e veja o projeto</a>
